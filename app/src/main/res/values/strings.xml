@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProvisionAssesment</string>
+    <string name="movie_detail">Movie Detail</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="release_year">Release Year:</string>
+    <string name="connection_problem">Connection Problem!!</string>
+    <string name="movie_release_year">Movie Release Year:</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="movie_list">Movie List</string>
+    <string name="movie_search">Movie Search</string>
+    <string name="next">Next</string>
+</resources>
